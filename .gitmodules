@@ -1,6 +1,0 @@
-[submodule "academico-php"]
-	path = academico-php
-	url = https://github.com/JaqueManzano/academico-php.git
-[submodule "servicos-nginx"]
-	path = servicos-nginx
-	url = https://github.com/JaqueManzano/servicos-nginx.git
